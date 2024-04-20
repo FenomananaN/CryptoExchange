@@ -22,7 +22,7 @@ class HomeController extends AbstractController
             $data=$request->request;
 
         $data =  json_encode($data, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES);
-        $filesystem->dumpFile('data.json', $data);
+        $filesystem->dumpFile('datacrypto.json', $data);
         }
         
       /* // $filesystem->touch('data'.random_int(0, 1000).'.json');
