@@ -1,0 +1,59 @@
+[
+    {
+        "image": "images/cover.jpg",
+        "sentence": "This is a sentence",
+        "audio": "hello.mp3",
+        "sentence_info": [
+            {
+                "start": 0,
+                "end": 0.5
+            },
+            {
+                "start": 0.5,
+                "end": 1.2
+            }
+        ]
+    },
+    {
+        "image": "images/cat.jpg",
+        "sentence": "This is another sentence",
+        "audio": "bey.mp3",
+        "sentence_info": [
+            {
+                "start": 0,
+                "end": 0.2
+            },
+            {
+                "start": 0.2,
+                "end": 0.8
+            },
+            {
+                "start": 0.8,
+                "end": 1.2
+            },
+            {
+                "start": 1.2,
+                "end": 1.5
+            },
+            {
+                "start": 1.5,
+                "end": 2
+            }
+        ]
+    },
+    {
+        "image": "images/dog.jpg",
+        "sentence": "This is a third sentence",
+        "audio": "good.mp3",
+        "sentence_info": [
+            {
+                "start": 0,
+                "end": 0.5
+            },
+            {
+                "start": 0.5,
+                "end": 1.2
+            }
+        ]
+    }
+]
